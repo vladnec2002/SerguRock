@@ -38,5 +38,13 @@ public class PlayerController : MonoBehaviour
         {
             isOnGround = true;
         }
+        if (collision.gameObject.CompareTag("Collectible"))
+        {
+            Destroy(gameObject);
+        }
+    }
+    private void OnTriggerEnter(Collider other)
+    {
+        Destroy(other.gameObject);
     }
 }
