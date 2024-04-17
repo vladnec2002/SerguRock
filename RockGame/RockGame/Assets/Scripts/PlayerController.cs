@@ -7,7 +7,7 @@ public class PlayerController : MonoBehaviour
 {
     [SerializeField]float playerInputHorizontal;
     [SerializeField] float speed = 5;
-    [SerializeField] float jumpForce = 20;
+    [SerializeField] float jumpForce = 10;
     Rigidbody2D playerRb;
     [SerializeField] bool isOnGround;
 
