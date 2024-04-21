@@ -123,7 +123,7 @@ ScriptedImporter:
   animatedSpriteImportData:
   - name: Sprite-0002
     originalName: 
-    pivot: {x: 0.47284982, y: 0.51292306}
+    pivot: {x: 0.5, y: -0.17391305}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -132,7 +132,7 @@ ScriptedImporter:
       y: 4
       width: 52
       height: 46
-    spriteID: 7cc0320caa75eaf49ba0bb06d628a3a3
+    spriteID: 95ecf07c00bc62e4cb3a740ab2826b92
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -157,7 +157,7 @@ ScriptedImporter:
         y: 8
         width: 52
         height: 46
-      spriteId: 7cc0320caa75eaf49ba0bb06d628a3a3
+      spriteId: 95ecf07c00bc62e4cb3a740ab2826b92
     linkedCells: []
     parentIndex: -1
   platformSettings: []
